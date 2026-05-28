@@ -8,6 +8,7 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+```
 server
 
 import socket
@@ -51,7 +52,7 @@ while i < n:
     i += w
 
 c.close() 
-
+```
 ## OUPUT
 <img width="1042" height="554" alt="image" src="https://github.com/user-attachments/assets/3306e702-bd56-4892-ab50-a2d12543f507" />
 
